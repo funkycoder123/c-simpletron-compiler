@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucky\\Desktop\\compilercoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:compiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:mysimpletron.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:symbolTable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:mysimpletron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:symbolTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:assembler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD5E6C9-3737-48DB-8E61-B104389DD0A8}|compilercoding.vcxproj|solutionrelative:compiler.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T18:44:55.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mysimpletron.hpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.hpp",
+              "RelativeDocumentMoniker": "mysimpletron.hpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.hpp",
+              "RelativeToolTip": "mysimpletron.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T00:20:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "compiler.cpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.cpp",
+              "RelativeDocumentMoniker": "compiler.cpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.cpp",
+              "RelativeToolTip": "compiler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T00:18:53.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "symbolTable.hpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.hpp",
+              "RelativeDocumentMoniker": "symbolTable.hpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.hpp",
+              "RelativeToolTip": "symbolTable.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T00:20:52.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "compiler.hpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.hpp",
+              "RelativeDocumentMoniker": "compiler.hpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\compiler.hpp",
+              "RelativeToolTip": "compiler.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T00:20:36.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "assembler.hpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.hpp",
+              "RelativeDocumentMoniker": "assembler.hpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.hpp",
+              "RelativeToolTip": "assembler.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T00:20:33.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "assembler.cpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.cpp",
+              "RelativeDocumentMoniker": "assembler.cpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\assembler.cpp",
+              "RelativeToolTip": "assembler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T00:19:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "symbolTable.cpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.cpp",
+              "RelativeDocumentMoniker": "symbolTable.cpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\symbolTable.cpp",
+              "RelativeToolTip": "symbolTable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T00:19:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mysimpletron.cpp",
+              "DocumentMoniker": "C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.cpp",
+              "RelativeDocumentMoniker": "mysimpletron.cpp",
+              "ToolTip": "C:\\Users\\lucky\\Desktop\\compilercoding\\mysimpletron.cpp",
+              "RelativeToolTip": "mysimpletron.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T00:19:03.086Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

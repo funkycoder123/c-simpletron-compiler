@@ -1,0 +1,19 @@
+HI, the input.txt file  is  a "simple" programming language script.
+
+-its straightforward and supports arthmetic operations and etc.
+
+-when you run the compiler with the simple script the compiler analyzes the script and translates it into a set of  assembly instructions. the whole process is by parsing the code and converting each command into a low-level language.
+
+-the assembly code is then fed into the assembler,which then converts it into a machine code.The machine code is like a numeric rep. of the assembly commands and that is what my simpletron simulator can execute directly.
+
+- the machine code is loaded into the simpletron simulator.which reads the machine code sequentially and performs a specific operation,like storing the results and outputting data.
+
+-As the simulator process each instruction it changes its memory and accumulator based on the instructions. when a "WRITE" instruction is executed etc.
+
+
+INTERACTION---------------------------------------
+--------------------------------------------------
+ 
+-For users, write your code in a text file named input.txt but you dont need this there is alaredy a defualt file..
+
+-this application is designed to show the principles of programing langues ,compilersr,and computer architecture in a simple way so just observe.

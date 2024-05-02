@@ -1,0 +1,7 @@
+﻿  assembler.cpp
+  compiler.cpp
+  main.cpp
+  mysimpletron.cpp
+  symbolTable.cpp
+  Generating Code...
+  compilercoding.vcxproj -> C:\Users\lucky\Desktop\compilercoding\x64\Debug\compilercoding.exe

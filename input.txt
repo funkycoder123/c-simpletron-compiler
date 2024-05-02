@@ -1,0 +1,4 @@
+input x
+let x = x + 50
+print x
+end
